@@ -1,0 +1,11 @@
+{
+  "name": "redux-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/adewale2018/redux-demo.git",
+  "author": "Saheed Adewale Shittu <saheedadewaleshittu@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "redux": "^4.0.5"
+  }
+}
